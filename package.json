@@ -1,0 +1,24 @@
+{
+  "name": "angular-web-app-boilerplate",
+  "version": "1.0.0",
+  "description": "Proyecto base con AngularJS 1.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiodonascimento/angular-web-app-boilerplate.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "AngularJS",
+    "Webpack"
+  ],
+  "author": "Caio Medeiros Pinto do Nascimento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiodonascimento/angular-web-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/caiodonascimento/angular-web-app-boilerplate#readme"
+}
